@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Users\Naray\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_18e674855082f00ef169de557bdf3b4809fbb0be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_625d4e962d6830bb319997408cca9fd4635aacdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_496cfea965679f4c62dcd9604b2dcb435b64d8f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_d7b1d3f510592802961e2296564755276c7894ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_cf0eba5ec0a678830ee3e83b9c1562b8d2a459fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="82f4f7093b231a525c901489c420865b3c4521fa">
+        <dex dex="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_627d785970d78d2a472836dff437e884003adc54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_ba10a517411c8892616b191321cca7e4f1a007a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b642ed53662f5f78e3d63495d8cbeca5f69c4396">
+        <dex dex="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9b84f74ed1378a63e33a18d20328596989c09248\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_dc3baa2db0730aaaeb2d7d0c3a925e17493660fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_567a866ff0c174c2dca496d58945b6a91ea1ac33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_0ba60b4cc7d98144ee83d6b22707904e61397bdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\Users\Naray\AndroidStudioProjects\SightReader\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_5a8421861bf85815611365a3d465c67b2d553cf0\classes.dex" />
+    </item>
+
+</items>
